@@ -23,7 +23,3 @@ Run the bat when you are ready.
 # Q: Can I activate on my own?
 Yeah, for sure you can. That is why I did not make activation automatic. You may skip that and activate on your own.
 
-Q: The KMS Servers are down, what servers can I use?
-
-A: Haha, I made KMS servers a while ago.
-A: Here it is: k1.4kash.org k2.codelazy.org k3.linux4kash.com
