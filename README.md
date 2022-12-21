@@ -27,3 +27,4 @@ Yeah, for sure you can. That is why I did not make activation automatic. You may
 
 # Please dont be saying that my project is your project.
 People have been forking my project and replacing my info like websites and such with their info, you really didnt collab in this project.
+Also please do not be selling this. It was free for a reason.
