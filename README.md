@@ -23,3 +23,7 @@ Run the bat when you are ready.
 # Q: Can I activate on my own?
 Yeah, for sure you can. That is why I did not make activation automatic. You may skip that and activate on your own.
 
+
+
+# Please dont be saying that my project is your project.
+People have been forking my project and replacing my info like websites and such with their info, you really didnt collab in this project.
